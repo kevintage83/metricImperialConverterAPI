@@ -24,7 +24,7 @@ xdg-open metricImperialConverterAPI
 ```
 
 ## Contributing
-Pull requests? No, thank you! This repo is primarily here to serve as a topic of dicussion among developers. Normally, if this were a repository where pull requests were welcome, I would ask that (for major changes, at least) you please open an issue first to discuss what you would like to change... but this is currently not the case.
+At this time, I am not handling pull requests; this repo is primarily here to serve as a topic of dicussion among developers. Normally, if this were a repository where pull requests were welcome, I would ask that (for major changes, at least) you please open an issue first to discuss what you would like to change... but this is currently not the case.
 
 I would also ask that you please make sure to update tests as appropriate.
 
