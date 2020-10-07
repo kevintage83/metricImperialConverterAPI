@@ -1,6 +1,12 @@
 # Metric/Imperial Converter API
 This project is an API that converts metric and imperial units. Can't you just type your conversion query into the Google search engine? You sure could! A note to tech leads and senior software devs: Welcome! You're likely here because you need to see my coding chops! Express and NodeJS examples (which aren't locked behind a previous client's privacy settings/guidelines or locked down by an NDA) must be created in my free time. Sharable projects are relegated to simple apps like these! I'm sure at least some of you can relate. :)
 
+<p align="center">
+  <img src="9D04C0DD-AAAB-4D3A-8D99-5855666C6797.jpeg" width=50%/>
+  </p>
+
+
+
 ## Installation
 You could clone the repo, click the download button, or just copy/paste the code into your code editor; it's only a few files. 
 
