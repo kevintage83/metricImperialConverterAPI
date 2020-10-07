@@ -1,4 +1,4 @@
-# metricImperialConverterAPI
+# Metric/Imperial Converter API
 This project is an API that converts metric and imperial units. Can't you just type your conversion query into the Google search engine? You sure could! A note to tech leads and senior software devs: Welcome! You're likely here because you need to see my coding chops! Express and NodeJS examples (which aren't locked behind a previous client's privacy settings/guidelines or locked down by an NDA) must be created in my free time. Sharable projects are relegated to simple apps like these! I'm sure at least some of you can relate. :)
 
 ## Installation
